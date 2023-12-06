@@ -1,2 +1,3 @@
 jenkins is the CI/CD tool
 Jenkins plugins help provide additional feature and functionality of jenkins
+Jenkins are high community and lots of plugins avilable
